@@ -1,4 +1,4 @@
-# Blog Media Queries
+# Personal Blog with Media Queries
 
 This is a blog project with a responsive design using Media Queries. The goal is to improve the user experience across different devices, from mobile phones to desktops.
 
